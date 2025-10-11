@@ -14,9 +14,9 @@
 
 # \## Problems
 
-# \- \[FirstUniqueChar.java](./FirstUniqueChar.java): Find the first non-repeating character in a string  
+# \- \[First1UniqueChar.java](First1UniqueChar.java): Find the first non-repeating character in a string  
 
-# \- \[FrequencyQuery.java](./FrequencyQuery.java): Find the frequency queries of the given Array
+# \- \[FrequencyQuery.java](FrequencyQuery.java): Find the frequency queries of the given Array
 
 
 

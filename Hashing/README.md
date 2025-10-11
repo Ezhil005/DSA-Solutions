@@ -15,5 +15,7 @@ This folder contains Java solutions using hash maps and sets for efficient looku
 * [FrequencyQuery.java](FrequencyQuery.java): Find the frequency of queried elements in an array
 * [LongestUniqueSubstring.java](LongestUniqueSubstring.java): Find the length of the longest substring without repeating characters using sliding window and HashSet
 - [FirstNonRepeatingElement.java](FirstNonRepeatingElement.java): Return the first element in an array that appears only once using HashMap frequency counting
+- [TwoSumHashSet.java](TwoSumHashSet.java): Check if any two elements in an array sum to a target value using HashSet for constant-time lookups
+
 
 

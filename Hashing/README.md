@@ -14,5 +14,3 @@ This folder contains Java solutions using hash maps and sets for efficient looku
 
 \- \[LongestUniqueSubstring.java](LongestUniqueSubstring.java): Find the length of the longest substring without repeating characters using sliding window and HashSet
 
-
-

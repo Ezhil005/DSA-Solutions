@@ -1,4 +1,6 @@
-\# Hashing 🔍 
+\# Hashing 🔍
+
+
 
 This folder contains Java solutions using hash maps and sets for efficient lookups.
 
@@ -6,17 +8,23 @@ This folder contains Java solutions using hash maps and sets for efficient looku
 
 \## Techniques Used
 
-\- Frequency Counting
+\- Frequency Counting  
 
-\- HashMap for Index Tracking
+\- HashMap for Index Tracking  
+
+\- HashSet for Duplicate Detection  
+
+\- Sliding Window for Substring Analysis  
 
 
 
 \## Problems
 
-\- \[FirstUniqueChar.java](FirstUniqueChar.java): Find the first non-repeating character in a string
+\- \[FirstUniqueChar.java](FirstUniqueChar.java): Find the first non-repeating character in a string  
 
 \- \[FrequencyQuery.java](FrequencyQuery.java): Find the frequency of queried elements in an array  
 
-\- \[LongestUniqueSubstring.java](LongestUniqueSubstring.java): Find the length of the longest substring without repeating characters using sliding window and HashSet
+\- \[LongestUniqueSubstring.java](LongestUniqueSubstring.java): Find the length of the longest substring without repeating characters using sliding window and HashSet  
+
+
 

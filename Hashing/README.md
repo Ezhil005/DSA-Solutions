@@ -14,8 +14,6 @@ This folder contains Java solutions using hash maps and sets for efficient looku
 * [FirstUniqueChar.java](FirstUniqueChar.java): Find the first non-repeating character in a string
 * [FrequencyQuery.java](FrequencyQuery.java): Find the frequency of queried elements in an array
 * [LongestUniqueSubstring.java](LongestUniqueSubstring.java): Find the length of the longest substring without repeating characters using sliding window and HashSet
-
-\- \[FirstNonRepeatingElement.java](FirstNonRepeatingElement.java): Return the first element in an array that appears only once using HashMap frequency counting
-
+- [FirstNonRepeatingElement.java](FirstNonRepeatingElement.java): Return the first element in an array that appears only once using HashMap frequency counting
 
 

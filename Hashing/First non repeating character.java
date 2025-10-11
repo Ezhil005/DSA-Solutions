@@ -1,3 +1,13 @@
+/**
+ * Problem: First Non-Repeating Character
+ * Description: Return the index of the first non-repeating character in a string.
+ * Input: "leetcode"
+ * Output: 0
+ * Explanation: 'l' is the first character that appears only once.
+ * Time Complexity: O(n)
+ * Space Complexity: O(1) assuming fixed alphabet size
+ */
+
 import java.util.HashMap;
 
 public class FirstUniqueChar {

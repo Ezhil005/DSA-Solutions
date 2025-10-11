@@ -1,24 +1,20 @@
-import java.util.HashMap;
-import java.util.HashSet;
+/**
+ * Problem: Maximum Subarray (Kadane's Algorithm)
+ * Description: Find the contiguous subarray with the largest sum.
+ * Input: [-2,1,-3,4,-1,2,1,-5,4]
+ * Output: 6
+ * Explanation: The subarray [4,-1,2,1] has the largest sum = 6.
+ * Time Complexity: O(n)
+ * Space Complexity: O(1)
+ */
 
-public class Main {
-    public static boolean nonre(int[] arr) {
-        HashSet<Integer> hs=new HashSet<>();
-        int n= arr.length;
-        int[] pf=new int[n];
-        pf[0]=arr[0];
-        for (int i=1;i<n;i++){
-            pf[i]=pf[i-1]+arr[i];
+public class MaxSubarray {
+    public int maxSubArray(int[] nums) {
+        int maxSum = nums[0], currSum = nums[0];
+        for (int i = 1; i < nums.length; i++) {
+            currSum = Math.max(nums[i], currSum + nums[i]);
+            maxSum = Math.max(maxSum, currSum);
         }
-        for (int i=0;i<arr.length;i++){
-            if (pf[i]==0 || hs.contains(pf[i]))
-                return true;
-            hs.add(pf[i]);
-        }
-        return false;
-    }
-    public static void main(String[] args) {
-        int[] arr={2,-1,-1,5,3,-8,0};
-        System.out.println(nonre(arr));
+        return maxSum;
     }
 }

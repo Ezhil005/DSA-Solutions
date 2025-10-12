@@ -18,5 +18,9 @@ This folder contains Java solutions to array-based DSA problems.
 - [SecondLargestElement.java](../Arrays/SecondLargestElement.java): Find the second largest element in an array using a single-pass approach
 - [ReverseArray.java](ReverseArray.java): Reverse a 1D array in-place using two-pointer technique
 - [RotateArrayRight.java](RotateArrayRight.java): Rotate an array to the right by k positions using the reversal algorithm
+- [RangeSumQueries.java](RangeSumQueries.java): Answer multiple range sum queries using prefix sum optimization
+- [EvenIndexRangeSum.java](EvenIndexRangeSum.java): Answer range sum queries for even indices using a modified prefix sum array
+- [FairIndexRemoval.java](FairIndexRemoval.java): Count indices where removing the element balances even and odd indexed sums using prefix sums
+
 
 

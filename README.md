@@ -19,5 +19,3 @@ A curated collection of Data Structures and Algorithms problems solved in Java. 
 - Build a strong DSA foundation
 - Showcase clean, efficient code
 - Land a ₹10+ LPA developer role
-
-## 📂 Folder Structure

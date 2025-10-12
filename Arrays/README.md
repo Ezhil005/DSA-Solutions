@@ -16,4 +16,7 @@ This folder contains Java solutions to array-based DSA problems.
 - [FrequencyArray.java](../Arrays/FrequencyArray.java): Return an array where each element represents the frequency of the corresponding value in the original array
 - [IsStrictlyIncreasing.java](../Arrays/IsStrictlyIncreasing.java): Check if an array is strictly increasing using a linear scan
 - [SecondLargestElement.java](../Arrays/SecondLargestElement.java): Find the second largest element in an array using a single-pass approach
+- [ReverseArray.java](ReverseArray.java): Reverse a 1D array in-place using two-pointer technique
+- [RotateArrayRight.java](RotateArrayRight.java): Rotate an array to the right by k positions using the reversal algorithm
+
 

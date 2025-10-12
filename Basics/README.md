@@ -21,6 +21,8 @@ This folder contains Java solutions to foundational programming problems that bu
 - [HourglassStarPattern.java](HourglassStarPattern.java): Print a full hourglass pattern using symmetric asterisks and spaces
 - [CenteredPyramid.java](CenteredPyramid.java): Print a centered pyramid pattern using nested loops and space padding
 - [NumberTriangle.java](NumberTriangle.java): Print a right-angled triangle of incrementing numbers using nested loops
+- [StaircasePattern.java](StaircasePattern.java): Generate a staircase pattern using nested ArrayLists where each row contains numbers from 1 to row index
+
 
 
 

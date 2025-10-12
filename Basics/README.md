@@ -22,6 +22,11 @@ This folder contains Java solutions to foundational programming problems that bu
 - [CenteredPyramid.java](CenteredPyramid.java): Print a centered pyramid pattern using nested loops and space padding
 - [NumberTriangle.java](NumberTriangle.java): Print a right-angled triangle of incrementing numbers using nested loops
 - [StaircasePattern.java](StaircasePattern.java): Generate a staircase pattern using nested ArrayLists where each row contains numbers from 1 to row index
+- [PrintCharactersLineByLine.java](PrintCharactersLineByLine.java): Read a string and print each character on a new line
+- [AsciiOfCharacters.java](AsciiOfCharacters.java): Read a string and print each character along with its ASCII value
+- [CountUppercase.java](CountUppercase.java): Count and return the number of uppercase letters in a given string
+- [CountSpecialCharacters.java](CountSpecialCharacters.java): Count and return the number of special characters (non-alphanumeric) in a string
+- [ReverseString.java](ReverseString.java): Reverse a string using character array and two-pointer swapping
 
 
 

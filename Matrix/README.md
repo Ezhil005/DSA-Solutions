@@ -22,6 +22,10 @@ Matrix problems often involve navigating rows, columns, diagonals, and subgrids.
 - [TransposeInPlace.java](TransposeInPlace.java): Transpose a square matrix in-place by swapping mat[r][c] with mat[c][r]
 - [Rotate90Clockwise.java](Rotate90Clockwise.java): Rotate a square matrix 90 degrees clockwise in-place using transpose and row reversal
 - [AntiDiagonals.java](AntiDiagonals.java): Generate all anti-diagonals of a square matrix and pad each row with zeros to maintain uniform width
+- [SearchInSortedMatrix.java](SearchInSortedMatrix.java): Efficiently searches for a target value in a row-wise and column-wise sorted matrix using O(n + m) time
+- [PrintOuterSpiralLayer.java](PrintOuterSpiralLayer.java): Prints the outermost layer of a matrix in spiral order (top → right → bottom → left)
+- [PrintSpiralOrder.java](PrintSpiralOrder.java): Prints all elements of a matrix in spiral order by traversing concentric layers inward
+- [SumOfAllSubmatrices.java](SumOfAllSubmatrices.java): Efficiently computes the sum of all submatrices using contribution technique based on cell position
 
 
 

@@ -32,6 +32,7 @@ This folder contains Java solutions to array-based DSA problems.
 - [CountNobleIntegers.java](CountNobleIntegers.java): Count all noble integers in an array including duplicates, where x equals the number of elements greater than x
 - [MaxConsecutiveOnesWithFlip.java](MaxConsecutiveOnesWithFlip.java): Finds the longest stretch of 1s in a binary array by flipping at most one 0
 - [MaxConsecutiveOnesWithValidFlip.java](MaxConsecutiveOnesWithValidFlip.java): Finds the longest stretch of 1s by flipping one 0, only if enough 1s remain to justify the flip
+- [CheckMajorityElement.java](CheckMajorityElement.java): Uses Boyer-Moore algorithm to check if an element appears more than n/2 times in an array
 
 
 

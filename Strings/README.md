@@ -14,3 +14,4 @@ This folder contains Java solutions to string manipulation problems.
 - [CheckSubstringPalindrome.java](CheckSubstringPalindrome.java): Checks if a substring between two indices is a palindrome
 - [LongestPalindromeLength.java](LongestPalindromeLength.java): Finds the length of the longest palindromic substring using center expansion
 - [LongestCommonPrefix.java](LongestCommonPrefix.java): Finds the longest common prefix among all strings using sorting and first-last comparison
+

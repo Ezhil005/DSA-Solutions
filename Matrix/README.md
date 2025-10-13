@@ -21,5 +21,6 @@ Matrix problems often involve navigating rows, columns, diagonals, and subgrids.
 - [PrintAllDiagonalsTopRightToBottomLeft.java](PrintAllDiagonalsTopRightToBottomLeft.java): Print all diagonals starting from top row and rightmost column moving down-left
 - [TransposeInPlace.java](TransposeInPlace.java): Transpose a square matrix in-place by swapping mat[r][c] with mat[c][r]
 - [Rotate90Clockwise.java](Rotate90Clockwise.java): Rotate a square matrix 90 degrees clockwise in-place using transpose and row reversal
+- [AntiDiagonals.java](AntiDiagonals.java): Generate all anti-diagonals of a square matrix and pad each row with zeros to maintain uniform width
 
 

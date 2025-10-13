@@ -22,7 +22,6 @@ Matrix problems often involve navigating rows, columns, diagonals, and subgrids.
 - [TransposeInPlace.java](TransposeInPlace.java): Transpose a square matrix in-place by swapping mat[r][c] with mat[c][r]
 - [Rotate90Clockwise.java](Rotate90Clockwise.java): Rotate a square matrix 90 degrees clockwise in-place using transpose and row reversal
 - [AntiDiagonals.java](AntiDiagonals.java): Generate all anti-diagonals of a square matrix and pad each row with zeros to maintain uniform width
-- [WeightedSumDescending.java](WeightedSumDescending.java): Sort an array in descending order and compute the weighted sum using 1-based indexing
-- [CountNobleIntegers.java](CountNobleIntegers.java): Count all noble integers in an array including duplicates, where x equals the number of elements greater than x
+
 
 

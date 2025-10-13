@@ -28,7 +28,8 @@ This folder contains Java solutions to array-based DSA problems.
 - [MaxSubarrayBruteForce.java](MaxSubarrayBruteForce.java): Find the maximum subarray sum using a brute-force O(n²) approach
 - [SubarraySumContribution.java](SubarraySumContribution.java): Compute the sum of all subarray elements using contribution counting in O(n) time
 - [CountGoodSubarrays.java](CountGoodSubarrays.java): Count subarrays that satisfy either of two conditions based on length and sum
-
+- [WeightedSumDescending.java](WeightedSumDescending.java): Sort an array in descending order and compute the weighted sum using 1-based indexing
+- [CountNobleIntegers.java](CountNobleIntegers.java): Count all noble integers in an array including duplicates, where x equals the number of elements greater than x
 
 
 

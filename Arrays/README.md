@@ -34,6 +34,10 @@ This folder contains Java solutions to array-based DSA problems.
 - [MaxConsecutiveOnesWithValidFlip.java](MaxConsecutiveOnesWithValidFlip.java): Finds the longest stretch of 1s by flipping one 0, only if enough 1s remain to justify the flip
 - [CheckMajorityElement.java](CheckMajorityElement.java): Uses Boyer-Moore algorithm to check if an element appears more than n/2 times in an array
 - [MaxSubarraySumKadane.java](MaxSubarraySumKadane.java): Finds the maximum sum of a contiguous subarray using Kadane’s Algorithm
+- [PointUpdatesWithPrefixSum.java](PointUpdatesWithPrefixSum.java): Applies point updates to an array and computes the final prefix sum
+- [RangeUpdateWithDifferenceArray.java](RangeUpdateWithDifferenceArray.java): Applies range updates efficiently using a difference array and prefix sum
+- [TrappingRainWaterTwoPointer.java](TrappingRainWaterTwoPointer.java): Calculates total trapped rainwater using the two-pointer technique with O(n) time and O(1) space
+
 
 
 

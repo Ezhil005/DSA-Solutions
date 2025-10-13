@@ -37,6 +37,7 @@ This folder contains Java solutions to array-based DSA problems.
 - [PointUpdatesWithPrefixSum.java](PointUpdatesWithPrefixSum.java): Applies point updates to an array and computes the final prefix sum
 - [RangeUpdateWithDifferenceArray.java](RangeUpdateWithDifferenceArray.java): Applies range updates efficiently using a difference array and prefix sum
 - [TrappingRainWaterTwoPointer.java](TrappingRainWaterTwoPointer.java): Calculates total trapped rainwater using the two-pointer technique with O(n) time and O(1) space
+- [EquilibriumIndex.java](EquilibriumIndex.java): Finds the index where the sum of elements to the left equals the sum to the right using prefix sums
 
 
 

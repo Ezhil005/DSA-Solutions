@@ -21,6 +21,13 @@ This folder contains Java solutions to array-based DSA problems.
 - [RangeSumQueries.java](RangeSumQueries.java): Answer multiple range sum queries using prefix sum optimization
 - [EvenIndexRangeSum.java](EvenIndexRangeSum.java): Answer range sum queries for even indices using a modified prefix sum array
 - [FairIndexRemoval.java](FairIndexRemoval.java): Count indices where removing the element balances even and odd indexed sums using prefix sums
+- [PrintSubarrays.java](PrintSubarrays.java): Print all contiguous subarrays of a given array using nested loops
+- [PrintSubarraysOptimized.java](PrintSubarraysOptimized.java): Print all contiguous subarrays using nested loops and incremental StringBuffer in O(n²) time
+- [MinSubarrayWithMinMax.java](MinSubarrayWithMinMax.java): Find the shortest subarray that contains both the minimum and maximum elements of the array
+- [MaxProfitSingleTransaction.java](MaxProfitSingleTransaction.java): Find the maximum profit from a single buy-sell transaction using a greedy one-pass approach
+- [MaxSubarrayBruteForce.java](MaxSubarrayBruteForce.java): Find the maximum subarray sum using a brute-force O(n²) approach
+- [SubarraySumContribution.java](SubarraySumContribution.java): Compute the sum of all subarray elements using contribution counting in O(n) time
+
 
 
 

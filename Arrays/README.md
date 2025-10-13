@@ -27,6 +27,8 @@ This folder contains Java solutions to array-based DSA problems.
 - [MaxProfitSingleTransaction.java](MaxProfitSingleTransaction.java): Find the maximum profit from a single buy-sell transaction using a greedy one-pass approach
 - [MaxSubarrayBruteForce.java](MaxSubarrayBruteForce.java): Find the maximum subarray sum using a brute-force O(n²) approach
 - [SubarraySumContribution.java](SubarraySumContribution.java): Compute the sum of all subarray elements using contribution counting in O(n) time
+- [CountGoodSubarrays.java](CountGoodSubarrays.java): Count subarrays that satisfy either of two conditions based on length and sum
+
 
 
 

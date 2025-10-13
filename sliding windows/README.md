@@ -10,4 +10,4 @@ This folder contains Java solutions using the sliding window technique.
 - [MaxSumSubarrayK.java](MaxSumSubarrayK.java): Find the maximum sum of a subarray of size k
 - [FirstLastSumInWindow.java](FirstLastSumInWindow.java): Print the sum of first and last elements in each subarray of size k using a sliding window
 - [MaxSumSubarraySizeK.java](MaxSumSubarraySizeK.java): Find the maximum sum of any subarray of size k using a sliding window in O(n) time
-
+- [LeastAverageSubarray.java](LeastAverageSubarray.java): Find the starting index of the subarray of size B with the least average using a sliding window in O(n) time

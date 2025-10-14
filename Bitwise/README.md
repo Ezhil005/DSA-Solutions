@@ -15,3 +15,4 @@ This folder contains Java solutions using bitwise operations.
 - [FindUniqueAmongTriplets.java](FindUniqueAmongTriplets.java): Finds the unique element in an array where every other element appears exactly three times using bit counting
 - [FindTwoUniqueElements.java](FindTwoUniqueElements.java): Finds two unique elements in an array where all other elements appear exactly twice using XOR and bit partitioning
 - [SumOfAllPairwiseXOR.java](SumOfAllPairwiseXOR.java): Computes the sum of XORs of all pairs in an array using bitwise contribution analysis
+- [TwoMissingNumbersXOR.java](TwoMissingNumbersXOR.java): Finds two missing numbers from 1 to n+2 using XOR partitioning and bit masking

@@ -39,6 +39,7 @@ This folder contains Java solutions to array-based DSA problems.
 - [TrappingRainWaterTwoPointer.java](TrappingRainWaterTwoPointer.java): Calculates total trapped rainwater using the two-pointer technique with O(n) time and O(1) space
 - [EquilibriumIndex.java](EquilibriumIndex.java): Finds the index where the sum of elements to the left equals the sum to the right using prefix sums
 - [SmallestMissingPositiveInteger.java](SmallestMissingPositiveInteger.java): Finds the smallest missing positive integer using cyclic sort with O(n) time and O(1) space
+- [CountZeroSumSubarrays.java](CountZeroSumSubarrays.java): Counts the number of subarrays with sum zero using prefix sums and a HashMap
 
 
 

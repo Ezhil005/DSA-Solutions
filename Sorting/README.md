@@ -22,4 +22,4 @@ Each file includes:
 ## 📂 Problem List
 - [SelectionSort.java](SelectionSort.java): Sorts an array using the Selection Sort algorithm by repeatedly selecting the minimum element
 - [InsertionSort.java](InsertionSort.java): Sorts an array using the Insertion Sort algorithm by placing each element into its correct position in the sorted portion
-
+- [CountingSortWithNegatives.java](CountingSortWithNegatives.java): Implements counting sort for arrays with negative and positive integers by shifting index range

@@ -23,3 +23,5 @@ Each file includes:
 - [SelectionSort.java](SelectionSort.java): Sorts an array using the Selection Sort algorithm by repeatedly selecting the minimum element
 - [InsertionSort.java](InsertionSort.java): Sorts an array using the Insertion Sort algorithm by placing each element into its correct position in the sorted portion
 - [CountingSortWithNegatives.java](CountingSortWithNegatives.java): Implements counting sort for arrays with negative and positive integers by shifting index range
+- [MergeSubarray.java](MergeSubarray.java): Merges a subarray from index s to e using two-pointer technique, useful for building Merge Sort
+- [MergeSort.java](MergeSort.java): Implements Merge Sort using recursive divide-and-conquer and two-pointer merging

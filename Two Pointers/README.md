@@ -17,4 +17,6 @@ The Two Pointers approach involves using two indices (usually `start` and `end`)
 
 ## 📂 Problem List
 - [MaxSumFromEnds.java](MaxSumFromEnds.java): Maximize the sum of B elements removed from either end of the array using a two-pointer sliding window
+- [MergeSortedArrays.java](MergeSortedArrays.java): Merges two sorted arrays into one sorted array using two-pointer traversal
+
 

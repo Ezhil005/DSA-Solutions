@@ -25,3 +25,6 @@ Each file includes:
 - [CountingSortWithNegatives.java](CountingSortWithNegatives.java): Implements counting sort for arrays with negative and positive integers by shifting index range
 - [MergeSubarray.java](MergeSubarray.java): Merges a subarray from index s to e using two-pointer technique, useful for building Merge Sort
 - [MergeSort.java](MergeSort.java): Implements Merge Sort using recursive divide-and-conquer and two-pointer merging
+- [LomutoPartition.java](LomutoPartition.java): Implements Lomuto partition scheme used in Quick Sort. Partitions array around pivot (last element) so that all elements less than pivot are moved to the left. Useful for understanding in-place partitioning and Quick Sort internals.
+- [SortByFactorCount.java](SortByFactorCount.java): Sorts an array based on the number of factors each element has. Uses a custom comparator with tie-breaking by value.
+- [QuickSortLomuto.java](QuickSortLomuto.java): Implements Quick Sort using the Lomuto partition scheme. Recursively sorts the array by selecting the last element as pivot and partitioning around it.

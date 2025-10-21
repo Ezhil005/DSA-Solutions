@@ -7,4 +7,5 @@ This folder contains classic searching techniques implemented in Java. Each algo
 ## 📁 File Structure
 - [BinarySearch.java](https://github.com/ezhil-dev/DSA-Solutions/blob/main/SearchingAlgorithms/BinarySearch.java)
 - [FirstOccurrenceBinarySearch.java](https://github.com/ezhil-dev/DSA-Solutions/blob/main/SearchingAlgorithms/FirstOccurrenceBinarySearch.java)
-- [UniqueElementBinarySearch.java](https://github.com/ezhil-dev/DSA-Solutions/blob/main/SearchingAlgorithms/UniqueElementBinarySearch.java): Finds the unique element in a sorted array where every other element appears twice using binary search. Time complexity: O(log n).
+- [UniqueElementBinarySearch.java](https://github.com/Ezhil005/DSA-Solutions/blob/main/SearchingAlgorithms/UniqueElementBinarySearch.java): Finds the unique element in a sorted array where every other element appears exactly twice using binary search. Time complexity: O(log n).
+

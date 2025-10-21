@@ -5,5 +5,5 @@ This folder contains classic searching techniques implemented in Java. Each algo
 ---
 
 ## 📁 File Structure
-- [FirstOccurrenceBinarySearch.java](SearchingAlgorithms/FirstOccurrenceBinarySearch.java): Finds the first index of a target value in a sorted array using binary search. Handles duplicates.
-- [BinarySearch.java](SearchAlgorithms/BinarySearch.java): Implements binary search on a sorted array. Returns true if target is found, false otherwise.
+- [BinarySearch.java](https://github.com/ezhil-dev/DSA-Solutions/blob/main/SearchingAlgorithms/BinarySearch.java)
+- [FirstOccurrenceBinarySearch.java](https://github.com/ezhil-dev/DSA-Solutions/blob/main/SearchingAlgorithms/FirstOccurrenceBinarySearch.java)

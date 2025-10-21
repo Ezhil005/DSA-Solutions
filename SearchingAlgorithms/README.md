@@ -8,4 +8,5 @@ This folder contains classic searching techniques implemented in Java. Each algo
 - [BinarySearch.java](https://github.com/Ezhil005/DSA-Solutions/blob/master/SearchingAlgorithms/BinarySearch.java)
 - [FirstOccurrenceBinarySearch.java](https://github.com/Ezhil005/DSA-Solutions/blob/master/SearchingAlgorithms/FirstOccurrenceBinarySearch.java)
 - [UniqueElementBinarySearch.java](https://github.com/Ezhil005/DSA-Solutions/blob/master/SearchingAlgorithms/UniqueElementBinarySearch.java)
+- [PeakElementBinarySearch.java](https://github.com/Ezhil005/DSA-Solutions/blob/master/SearchingAlgorithms/PeakElementBinarySearch.java): Finds a peak element in an array using binary search. A peak is defined as an element greater than its neighbors. Handles edge cases and returns the peak value. Time complexity: O(log n).
 
